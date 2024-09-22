@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://reecj.github.io/UVg/sitemap.UVg.gz
